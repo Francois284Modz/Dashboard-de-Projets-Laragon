@@ -16,7 +16,7 @@ Une page d'accueil **élégante, responsive et fonctionnelle** pour lister autom
 
 ## 📸 Aperçu
 
-[screenshot](https://prnt.sc/mO3rVthH9S48)
+[https://prnt.sc/mO3rVthH9S48](https://prnt.sc/mO3rVthH9S48)
 
 ## 🚀 Installation
 
